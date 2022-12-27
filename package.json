@@ -1,0 +1,24 @@
+{
+  "name": "discord-sample-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datwalkerv/discord-sample-v14.git"
+  },
+  "keywords": [],
+  "author": "datwalkerv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datwalkerv/discord-sample-v14/issues"
+  },
+  "homepage": "https://github.com/datwalkerv/discord-sample-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
